@@ -68,14 +68,7 @@
 
 <br>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-<!-- 
-  Activity Graph 颜色改为：
-  背景: 0d0815, 线条: a855f7 (紫), 圆点: ff3344 (猩红), 高亮: ff4d94
--->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongzhiteng&bg_color=0d0815&color=ff4d94&line=a855f7&point=ff3344&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
+
 
 <br><br>
 
