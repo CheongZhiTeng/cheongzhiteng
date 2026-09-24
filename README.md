@@ -13,6 +13,7 @@
 <br>
 
 <!-- ================= PROFILE VIEWS COUNTER ================= -->
+<!-- 保持这个，如果显示 ? 可能是被广告拦截器挡了，刷新即可 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cheongzhiteng&color=a855f7&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -23,10 +24,11 @@
 <div align="center">
   <h3>🔗 Connect with me</h3>
   <br>
-  <a href="https://cheongzhiteng.github.io">
+  <!-- 这里加上了 text-decoration:none 防止它变成蓝色下划线 -->
+  <a href="https://cheongzhiteng.github.io" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/🌐_My_Website-6366f1?style=for-the-badge&logoColor=white" alt="Website" />
   </a>
-  <a href="https://github.com/cheongzhiteng">
+  <a href="https://github.com/cheongzhiteng" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -40,20 +42,20 @@
     <i>A stylish music gallery and player with a modern glassmorphism UI.</i>
   </p>
   <br>
-  <a href="https://cheongzhiteng.github.io/nanatsukaze">
+  <a href="https://cheongzhiteng.github.io/nanatsukaze" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/🎧_Nanatsukaze-Listen_Now-6366f1?style=for-the-badge&logoColor=white" alt="Nanatsukaze" />
   </a>
 </div>
 
 <br><br>
 
-<!-- ================= GITHUB STATS & ACTIVITY GRAPH ================= -->
+<!-- ================= GITHUB STATS (换用更稳定的服务) ================= -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <br>
+  <!-- 这里换成了 streak-stats，它比原来的 stats 服务稳定很多 -->
   <a href="https://github.com/cheongzhiteng">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheongzhiteng&show_icons=true&theme=radical&bg_color=faf9fc&title_color=6366f1&text_color=374151&icon_color=a855f7&border_color=c7d2fe&hide_border=false" alt="Cheong's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongzhiteng&layout=compact&theme=radical&bg_color=faf9fc&title_color=6366f1&text_color=374151&icon_color=a855f7&border_color=c7d2fe&hide_border=false" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=cheongzhiteng&theme=radical&background=faf9fc&border=c7d2fe&ring=6366f1&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -61,35 +63,21 @@
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
+  <!-- 这个 graph 也经常挂，如果显示 ? 请稍后再刷新试试 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongzhiteng&bg_color=faf9fc&color=6366f1&line=a855f7&point=ec4899&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br><br>
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
+<!-- ================= CONTRIBUTION SNAKE (暂时注释掉) ================= -->
 <!-- 
-  ⚠️ NOTE: This image will only work after you set up the GitHub Action!
-  Go to https://github.com/Platane/snk and follow the instructions to generate it.
--->
+  因为你还未配置 GitHub Action，这段代码会显示破图。
+  等你配置好之后，取消注释即可。
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <p><i>Watch my contributions get eaten by a snake!</i></p>
   <br>
   <img src="https://raw.githubusercontent.com/cheongzhiteng/cheongzhiteng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br><br>
-
-<!-- ================= SPOTIFY NOW PLAYING (OPTIONAL) ================= -->
-<!-- 
-  ⚠️ NOTE: To use this, replace YOUR_SPOTIFY_UID with your actual Spotify username, 
-  and remove the HTML comments around the div.
--->
-<!-- 
-<div align="center">
-  <h3>🎧 Currently Listening To</h3>
-  <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=faf9fc&interchange=true&bar_color=6366f1&bar_color_cover=true" />
 </div>
 <br><br>
 -->
