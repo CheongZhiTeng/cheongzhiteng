@@ -64,7 +64,7 @@
 <!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
   <!-- 这个 graph 也经常挂，如果显示 ? 请稍后再刷新试试 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongzhiteng&bg_color=faf9fc&color=6366f1&line=a855f7&point=ec4899&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=cheongzhiteng&bg_color=faf9fc&color=6366f1&line=a855f7&point=ec4899&area=true&hide_border=true](https://fabianocouto-activity-graph.vercel.app/graph?username=cheongzhiteng&bg_color=faf9fc&color=6366f1&line=a855f7&point=ec4899&area=true)" alt="Activity Graph" width="100%" />
 </div>
 
 <br><br>
