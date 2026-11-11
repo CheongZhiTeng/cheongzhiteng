@@ -72,19 +72,6 @@
 
 <br><br>
 
-<!-- ================= CONTRIBUTION SNAKE (暂时注释掉) ================= -->
-<!-- 
-  等你配置好 GitHub Action 后，取消注释即可。
-  届时建议把生成的蛇也换成暗黑主题。
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <p><i>Watch my contributions get eaten by a snake!</i></p>
-  <br>
-  <img src="https://raw.githubusercontent.com/cheongzhiteng/cheongzhiteng/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-<br><br>
--->
-
 <!-- ================= FOOTER ================= -->
 <!-- 底部波浪颜色同步改为霓虹粉、猩红、紫 -->
 <div align="center">
